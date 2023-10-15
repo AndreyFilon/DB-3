@@ -39,5 +39,5 @@
 
 #### Ответ:
 
-![Задание4]()
+![Задание4](https://github.com/AndreyFilon/DB-3/blob/main/filebeat.jpg)
  ---
