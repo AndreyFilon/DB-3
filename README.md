@@ -12,14 +12,14 @@
 ![Задание 1](https://github.com/AndreyFilon/DB-3/blob/main/elasticsearch1.jpg)  
 ---
 
-### Задание 2 Memcached
+### Задание 2 Kibana
    
-Установите и запустите memcached.
-Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.
+Установите и запустите Kibana.  
+Приведите скриншот интерфейса Kibana на странице http://<ip вашего сервера>:5601/app/dev_tools#/console, где будет выполнен запрос GET /_cluster/health?pretty.
 
 #### Ответ:
 
-![Задание 2](https://github.com/AndreyFilon/DB-2/blob/main/memcached.jpg)
+![Задание 2]()
 ---
 
 ### Задание 3 Удаление по TTL в Memcached
