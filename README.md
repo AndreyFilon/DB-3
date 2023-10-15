@@ -29,7 +29,7 @@
 
 #### Ответ:
 
-![Задание 3]()
+![Задание 3](https://github.com/AndreyFilon/DB-3/blob/main/nginx.jpg)
 
 ---
 
