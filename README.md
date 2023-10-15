@@ -19,7 +19,7 @@
 
 #### Ответ:
 
-![Задание 2]()
+![Задание 2](https://github.com/AndreyFilon/DB-3/blob/main/task2.jpg)
 ---
 
 ### Задание 3 Logstash
